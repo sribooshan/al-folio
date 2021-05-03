@@ -6,11 +6,11 @@ description: <a href="https://ceg.annauniv.edu">CEG, Anna University</a>
 
 profile:
   align: right
-  image: pro_pic_1.jpg
+  image: prof_pic_gt.jpg
 
 
 news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
