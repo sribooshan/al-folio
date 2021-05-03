@@ -6,7 +6,7 @@ description: <a href="https://ceg.annauniv.edu">CEG, Anna University</a>
 
 profile:
   align: right
-  image: pro_pic3.jpg
+  image: pro_pic_3.jpg
 
 
 news: false  # includes a list of news items
