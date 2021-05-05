@@ -2,14 +2,15 @@
 layout: about
 title: About
 permalink: /
-description: ISL. ECE. <a href="https://ceg.annauniv.edu">CEG, Anna University</a> 
+description: ISL • ECE • <a href="https://ceg.annauniv.edu">CEG, Anna University</a> 
 
 profile:
-  align: right
+  align: left
   image: prof_pic_gt.jpg
   address: >
     <p>Integrated Systems Lab</p>
-    <p>Dept of ECE, CEG, Anna University</p>
+    <p>Dept of ECE, CEG</p>
+    <p>Anna University</p>
     <p>Chennai - 600088</p>
     <p>India </p>
 
