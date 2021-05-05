@@ -5,7 +5,7 @@ permalink: /
 description: ISL • ECE • <a href="https://ceg.annauniv.edu">CEG, Anna University</a> 
 
 profile:
-  align: left
+  align: right
   image: prof_pic_gt.jpg
   address: >
     <p>Integrated Systems Lab</p>
