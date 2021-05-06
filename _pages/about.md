@@ -11,7 +11,7 @@ profile:
     <p>Integrated Systems Lab</p>
     <p>Dept of ECE, CEG</p>
     <p>Anna University</p>
-    <p>Chennai - 600088</p>
+    <p>Chennai - 600 025</p>
     <p>India </p>
 
 news: false  # includes a list of news items
@@ -23,8 +23,8 @@ Hello there, I'm Booshan!
 
 I'm a final-year undergrad studying Electronics and Communication Engineering at CEG, Anna University.
 
-I consider it an inexplicable privilege that I spend most of my time at the Integrated Systems Lab (ISL) under Prof. P. V. Ramakrishna and Dr. J. Dhurga Devi. We are involved in projects with a wide range of areas including but not limited to integrated circuit design studies, estimation theory, wireless communication and radar systems.
+I consider it an inexplicable privilege to say that I spend most of my time at the Integrated Systems Lab (ISL) under Prof. P. V. Ramakrishna and Dr. J. Dhurga Devi. We are involved in projects with a wide range of areas including but not limited to integrated circuit design studies, estimation theory, wireless communication system design and radar systems.
 
-My curriculum vitae is available [here](https://sribooshan.github.io/assets/pdf/example_pdf.pdf){:target="\_blank"}.
+My curriculum vitae is available [here](https://sribooshan.github.io/assets/pdf/Sribooshan_Srinivasan_Resume_May_5_2021.pdf){:target="\_blank"}.
 
 ## Disclaimer: The site is under construction.
