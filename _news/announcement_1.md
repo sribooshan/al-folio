@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2017-08-06 10:00:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+I started my undergrad in ECE at CEG!
