@@ -27,4 +27,6 @@ I consider it an inexplicable privilege to say that I spend most of my time at t
 
 My curriculum vitae is available [here](https://sribooshan.github.io/assets/pdf/Sribooshan_Srinivasan_Resume_May_5_2021.pdf){:target="\_blank"}.
 
+If you think I can be of any help to you, please feel free to email me - firstname dot lastname at gmail dot com.
+
 ## Disclaimer: The site is under construction.
