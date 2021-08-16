@@ -25,8 +25,6 @@ I'm a final-year undergrad studying Electronics and Communication Engineering at
 
 I consider it an inexplicable privilege to say that I spend most of my time at the Integrated Systems Lab (ISL) under Prof. P. V. Ramakrishna and Dr. J. Dhurga Devi. We are involved in projects with a wide range of areas including but not limited to integrated circuit design studies, estimation theory, wireless communication system design and radar systems.
 
-My curriculum vitae is available [here](https://sribooshan.github.io/assets/pdf/Sribooshan_Srinivasan_Resume_May_5_2021.pdf){:target="\_blank"}.
-
 If you think I can be of any help to you, please feel free to email me - firstname dot lastname at gmail dot com.
 
 ## Disclaimer: The site is under construction.
