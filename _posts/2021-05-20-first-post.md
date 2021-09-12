@@ -10,10 +10,10 @@ I plan to write my thoughts here on this <a href="https://sribooshan.github.io/b
 
 Please feel free me to email me if you think I can be of any help to you!
 
-<blockquote>
-    "Your task is not to seek for love,<br>
-    but merely to seek and find all the barriers within yourself<br>
-    that you have built against it."<br>
-    — Jalāl ad-Dīn Mohammad Rūmī (1207 - 1273 AD)
-</blockquote>
+
+    > Your task is not to seek for love,
+    > but merely to seek and find all the barriers within yourself
+    > that you have built against it.
+    > — Jalāl ad-Dīn Mohammad Rūmī (1207 - 1273 AD)
+
 
