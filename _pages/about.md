@@ -6,7 +6,7 @@ description: Mixed-Signal IC Design Engineer
 
 profile:
   align: right
-  image: prof_pic_gt.jpg
+  image: Sribooshan_Final.jpeg
   address: >
     
 
