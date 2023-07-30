@@ -1,73 +1,84 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Sribooshan Srinivasan",
+    "label": "Digital IC Design Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "sribooshan.srinivasan@gmail.com",
+    "phone": "",
+    "url": "https://sribooshan.com",
+    "summary": "Passionate IC design engineer, engrossed in learning the field of integrated-circuit design (analog, digital and mixed-signal) and computer architecture.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Chennai",
+      "countryCode": "IN",
+      "region": "Tamil Nadu"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "MaxLinear Inc.",
+      "position": "Digital IC Design Engineer",
+      "url": "https://maxlinear.com",
+      "startDate": "2022-11-28",
+      "endDate": "",
+      "summary": "Part of the SoC Design team in Chennai, working on products catering to the 5G market.",
       "highlights": [
-        "Relativity"
+        "Front-End, Perl/Tcl Scripting, Verilog HDL"
       ]
+    },
+    {
+      "name": "Ixana",
+      "position": "Mixed-Signal Design Verification Engineer",
+      "url": "https://ixana.ai",
+      "startDate": "2021-11-10",
+      "endDate": "2022-11-16",
+      "summary": "Part of the pre-silicon validation team for Ixana's YR series chips.",
+      "highlights": [
+        "VCS, Verdi, Synopsys Custom Compiler, Verilog HDL"
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
+      "institution": "College of Engineering, Guindy, Anna University",
+      "url": "https://https://www.annauniv.edu/ece/",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.E.",
+      "startDate": "2017-08-06",
+      "endDate": "2021-08-10",
+      "score": "First Class with Distinction",
       "courses": [
-        "Theory of Relativity"
+        "Digital VLSI Design, Computer Architecture and Organisation, CMOS Analog IC Design, Mixed-Signal IC Design, RF Microelectronics"
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "language": "Tamil",
+      "fluency": "Native Speaker"
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Kannada",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
       "fluency": "Fluent"
     }
   ],

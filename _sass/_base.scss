@@ -3,7 +3,8 @@
  ******************************************************************************/
 
 // Typography
-
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap');
 p,
 h1,
 h2,
@@ -17,6 +18,7 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+  font-family: "Source Sans 3"
 }
 
 hr {
@@ -746,6 +748,7 @@ code {
   background-color: var(--global-code-bg-color);
   border-radius: 3px;
   padding: 3px 3px;
+  font-family: "Source Code Pro"
 }
 
 
