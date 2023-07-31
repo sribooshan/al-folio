@@ -8,11 +8,11 @@ middle_name:
 last_name: Srinivasan
 email: sribooshan.srinivasan@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Passionate IC design engineer, engrossed in learning the field of integrated-circuit design (analog, digital and mixed-signal) and computer architecture.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, sribooshan, portfolio-website  # add your own keywords or leave empty
+keywords: sribooshan, vlsi, vlsi_design, digital ic design, analog ic design, engineer  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -54,7 +54,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1024px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -273,8 +273,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Srinivasan]
+  first_name: [Sribooshan]
 
   style: apa
   locale: en

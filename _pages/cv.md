@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /CV/
+title: CV
 nav: true
-nav_order: 4
+nav_order: 2
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+description: Please find my CV below. A PDF version is also available. Please access it using the PDF file icon the right. 
 ---
