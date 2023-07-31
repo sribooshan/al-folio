@@ -3,8 +3,6 @@
  ******************************************************************************/
 
 // Typography
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200;300;400;500&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;300;400;500&display=swap');
 p,
 h1,
 h2,
@@ -18,7 +16,6 @@ li,
 span,
 strong {
   color: var(--global-text-color);
-  font-family: "Source Sans 3"
 }
 
 hr {
@@ -123,6 +120,7 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    text-align: center;
 
     p {
       display: inline-block;
@@ -333,7 +331,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
-
+  text-align: center;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -355,6 +353,7 @@ footer.sticky-bottom {
   padding-top: 40px;
   padding-bottom: 40px;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 // CV
