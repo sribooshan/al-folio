@@ -3,6 +3,15 @@
  ******************************************************************************/
 
 // Typography
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Sanskrit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sumana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sahitya&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Tamil&family=Noto+Serif+Tamil&family=Tiro+Tamil:ital@0;1&display=swap');
+
 p,
 h1,
 h2,
@@ -10,13 +19,19 @@ h3,
 h4,
 h5,
 h6,
-em,
 div,
 li,
-span,
+span {
+  color: var(--global-text-color);
+  font-weight: 400;
+}
+
+em,
 strong {
   color: var(--global-text-color);
 }
+
+
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -25,11 +40,14 @@ hr {
 table {
   td,
   th {
-    font-size: 1rem;
+  font-size: var(--global-font-size);
+  font-weight: 400;
   }
 
   th {
     font-weight: bold;
+  font-size: var(--global-font-size);
+  font-weight: 400;
   }
 }
 
@@ -119,7 +137,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Source Code Pro", monospace;
     text-align: center;
 
     p {
@@ -322,7 +340,7 @@ blockquote {
   }
 
   .contact-note {
-    font-size: 0.8rem;
+    font-size: 16px;
   }
 }
 
@@ -330,7 +348,7 @@ blockquote {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   text-align: center;
   .container {
     color: var(--global-footer-text-color);
@@ -473,18 +491,22 @@ footer.sticky-bottom {
   .page-item {
     .page-link {
       color: var(--global-text-color);
+      font-size: 1.5rem;
 
       &:hover {
         color: $black-color;
+      font-size: 1.5rem;
       }
     }
 
     &.active .page-link {
       color: $white-color;
       background-color: var(--global-theme-color);
+      font-size: 1.5rem;
 
       &:hover {
         background-color: var(--global-theme-color);
+      font-size: 1.5rem;
       }
     }
   }
@@ -732,6 +754,7 @@ pre {
   background-color: var(--global-code-bg-color);
   border-radius: 6px;
   padding: 6px 12px;
+  font-family: "Source Code Pro";
 
   pre,
   code {
@@ -739,6 +762,7 @@ pre {
     border-radius: 0;
     margin-bottom: 0;
     padding: 0;
+    font-family: "Source Code Pro";
   }
 }
 

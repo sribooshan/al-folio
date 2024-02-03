@@ -2,96 +2,75 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sribooshan Srinivasan 
+    - name: Title
+      value: Digital IC Design Engineer
+    - name: URL
+      value: <a href="https://sribooshan.com" target="blank">https://sribooshan.com</a>
+    - name: Summary
+      value: Passionate IC design engineer, engrossed in learning the field of integrated-circuit design (analog, digital and mixed-signal) and computer architecture.
     - name: Languages
-      value: English, German
+      value: English, Tamil, Kannada, Hindi 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.E. (Electronics and Communication Engineering)
+      institution: College of Engineering Guindy, Anna University
+      location: Chennai, Tamil Nadu, India
+      year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - First Class with Distinction 
+        - title: Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - CMOS Analog IC Design
+            - Mixed-Signal IC Design
+            - RF Mircoelectronics
+            - Digital VLSI Design
 
 - title: Experience
-  type: time_table
+  type: time_table_work
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Digital IC Design Engineer
+      institution: MaxLinear 
+      location: Chennai, Tamil Nadu, India
+      year: Nov. 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - SoC Design and Integration 
+        - Accelerated integration reviews by automating the generation of connectivity reports from source RTL.
+        - Developed an in-house flow to insert re-timing registers to achieve STA sign-off.
+        - title: Experience using
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - SystemVerilog/Verilog, Tcl, Perl, Unified Power Format
+            - VC Spyglass, Spyglass (Lint), Xcelium, Conformal
+    - title: Mixed-Signal Design Verification Engineer
+      institution: Ixana 
+      location: Remote 
+      year: Nov. 2021 - Nov. 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Responsible for the verification of LNAs, down-conversion circuits, active filters, bandgap reference and LDOs.
+        - Worked on the verification of mixed-signal blocks like SAR ADC, CDRs and the complete receiver chain for BER/sensitivity measurements.
+        - Contributed to the verification of digital blocks assisting the analog circuits.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Skills
+  type: list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - <u>Hardware Tools:</u> High-end Oscilloscopes, Spectrum Analyzers, Vector Network Analysers, Power Supplies, Logic Analyzers.
+    - <u>EE Tools:</u> Xcelium, Conformal LP, VCS, Verdi, VC Spyglass, Custom Compiler, Primewave, MATLAB, Xilinx Vivado, Openlane
+    - <u>Programming:</u> C, Python, Perl, Tcl, SystemVerilog/Verilog HDL, Bash/CSH
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - <a href="https://ieeetv.ieee.org/ieee-podcast-network/next-generation-circuit-designer-workshop-ieee-women-in-circuits-sscs" target="blank">Next Generation Circuit Designer Workshop</a>, ISSCC 2022. 
+    - year: 2016
       items: 
-        - Max Planck Medal
+        - Rashtrapati Puraskar (The President's Award) in the Scout Movement.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Indian Classical Music, Ping-pong, Badminton.

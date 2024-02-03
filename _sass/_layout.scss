@@ -6,6 +6,9 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  font-family: "Source Sans 3";
+  font-size: var(--global-font-size);
+  font-weight: 400;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -30,6 +33,8 @@ body.sticky-bottom-footer {
 .profile {
   img {
     width: 100%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

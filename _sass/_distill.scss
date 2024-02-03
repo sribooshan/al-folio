@@ -21,18 +21,26 @@ d-article {
   border-top-color: var(--global-divider-color) !important;
   p, h1, h2, h3, h4, h5, h6, li, table {
     color: var(--global-text-color) !important;
+  font-size: 1.2rem;
+  font-weight: 400;
   }
   h1, h2, hr, table, table th, table td {
     border-bottom-color: var(--global-divider-color) !important;
+  font-size: 1.2rem;
+  font-weight: 400;
   }
   a {
     color: var(--global-theme-color) !important;
     &:hover {
       color: var(--global-theme-color) !important;
+  font-size: 1.2rem;
+  font-weight: 400;
     }
   }
   b i {
     display: inline;
+  font-size: 1.2rem;
+  font-weight: 400;
   }
 
   // Style taken from code blocks

@@ -28,11 +28,22 @@ $grey-color-light:    lighten($grey-color, 40%);
 $grey-color-dark:     #1C1C1D;
 $grey-900:            #212529;
 
-$white-color: #ffffff !default;
-$black-color: #000000 !default;
+$white-color: #f0f0f0 !default;
+//$black-color: #000000 !default;
+$black-color: #2f2f2f !default;
 
 
 // Theme colors
 
 $code-bg-color-light:     rgba($purple-color, 0.05);
 $code-bg-color-dark:      #2c3237 !default;
+
+// font size
+$custom-font-size: 18px !default;
+
+// font family
+$custom-font-family: "Source Sans 3";
+
+// font weight
+$custom-font-wght: 400 !default;
+

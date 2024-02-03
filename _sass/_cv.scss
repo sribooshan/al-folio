@@ -8,6 +8,7 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+  white-space: nowrap;
 }
 
 a.btncv {
@@ -53,6 +54,11 @@ i.iconinstitution {
   margin-right: 0.3rem;
 }
 
+i.iconwork {
+  color: var(--global-theme-color);
+  font-size: 0.95rem;
+  margin-right: 0.3rem;
+}
 i.icondepartment {
   color: var(--global-theme-color);
   font-size: 0.8rem;
